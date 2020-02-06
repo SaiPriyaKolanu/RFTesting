@@ -1,0 +1,3 @@
+PolygonLookup.search(x, y, limit) -- lookup for a coordinate inside a polygon
+
+FeatureCollection -- googleearth 
