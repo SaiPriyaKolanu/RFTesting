@@ -11,6 +11,6 @@
   "dependencies": {
     "@google/earthengine": "^0.1.212",
     "read-excel-file": "^4.0.5",
-    "xlsx": "^0.15.5"
+    "xlsx": "^0.17.0"
   }
 }
