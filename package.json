@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@google/earthengine": "^0.1.212",
-    "read-excel-file": "^4.0.5",
+    "read-excel-file": "^5.5.3",
     "xlsx": "^0.15.5"
   }
 }
